@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="tablaempleadoLogico" id="9A4C33A2-D760-CD46-23C9-6CB5067DD96A" version="3.5">
+<createdBy>Katherina</createdBy>
+<createdTime>2020-07-09 03:56:12 UTC</createdTime>
+<ownerDesignName>tablaempleadoLogico</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>9A4C33A2-D760-CD46-23C9-6CB5067DD96A</designId>
+</OSDM_Design>

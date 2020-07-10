@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ModeloLogicoCine" id="7D8138D1-068C-1723-A94E-1FA9CE3D799A" version="3.5">
+<createdBy>Katherina</createdBy>
+<createdTime>2020-07-09 15:32:37 UTC</createdTime>
+<ownerDesignName>ModeloLogicoCine</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>7D8138D1-068C-1723-A94E-1FA9CE3D799A</designId>
+</OSDM_Design>

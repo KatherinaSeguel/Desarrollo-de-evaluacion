@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ModeloLogicoEvaluacion" id="6230B44D-0FFA-1EFD-EE15-AAF5553567A2" version="3.5">
+<createdBy>Katherina</createdBy>
+<createdTime>2020-07-09 00:50:45 UTC</createdTime>
+<ownerDesignName>ModeloLogicoEvaluacion</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>6230B44D-0FFA-1EFD-EE15-AAF5553567A2</designId>
+</OSDM_Design>
